@@ -6,6 +6,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: 1-example.html
+      href: research.html
     - text: "Teaching"
-      href: 3-inline.html
+      href: teaching.html
+    - text: "Blog"
+      href: Blog.html

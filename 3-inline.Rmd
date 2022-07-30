@@ -1,7 +1,0 @@
----
-title: "Ecology"
-output: html_document
----
-
-# University of Alabama
-# University of Florida
