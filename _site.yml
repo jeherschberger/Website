@@ -2,7 +2,7 @@ name: "Jacob Herschberger"
 output_dir: "docs"
 navbar:
   title: "Jacob Herschberger"
-  left:
+  right:
     - text: "Home"
       href: index.html
     - text: "Research"
