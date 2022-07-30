@@ -3,4 +3,11 @@ title: "Who am I"
 output: html_document
 ---
 
+```{r, include=FALSE}
+library(knitr)
+```
+
+```{r, echo=FALSE, out.width = "300px", fig.align='right', dpi=90}
+knitr::include_graphics("images/profile.jpg")
+```
 
