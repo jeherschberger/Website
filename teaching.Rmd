@@ -1,15 +1,17 @@
 ---
-title: "Teaching: Current and Recent"
+title: "Teaching:"
 output: html_document
 ---
 
 # Current
+
 ### University of Florida
 
-Entomology
+* Entomology
 
 # Recent
+
 ### University of Alabama
 
-General Biology I & II
-Ecology Lab
+* General Biology I & II
+* Ecology Lab
