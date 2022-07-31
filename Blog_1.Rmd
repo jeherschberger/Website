@@ -1,0 +1,6 @@
+---
+title: "July 30 2022"
+output: html_document
+---
+
+I used the rmarkdown package within rstudio to build my first website. I started with the template from the rmarkdown website. Then I change the output directory in the _site.yml file to create a docs folder that github will recognize as the website folder.

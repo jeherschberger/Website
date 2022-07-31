@@ -3,4 +3,6 @@ title: "Blog"
 output: html_document
 ---
 
-Under construction
+## [July 30 2022](Blog_1.html)
+
+Building my first website with rmarkdown!!
