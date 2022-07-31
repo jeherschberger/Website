@@ -15,6 +15,6 @@ navbar:
       href: Blog.html
 output:
   html_document:
-    theme: sandstone
-    highlight: tango
+    theme: cosmo
+    highlight: monochrome
     #css: custom.css

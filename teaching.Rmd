@@ -3,17 +3,19 @@ title: "Teaching"
 output: html_document
 ---
 
-# Current
+## Current
 
-### University of Florida
+#### University of Florida (Fall 2022 - *present*)
 
 * Entomology
 
-# Recent
+## Recent
 
-### University of Alabama
+#### University of Alabama (Spring 2020 - Summer 2022)
 
-
+```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100}
+knitr::include_graphics("images/BSC_teaching.jpeg")
+```
 
 * General Biology I & II
 * Ecology Lab

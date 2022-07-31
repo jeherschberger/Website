@@ -9,7 +9,7 @@ library(knitr)
 ```
 
 
-```{r, echo=FALSE, out.width = "300px", fig.align='center', dpi=90}
+```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100}
 knitr::include_graphics("images/profile.jpg")
 ```
 
