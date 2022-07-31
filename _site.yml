@@ -11,3 +11,8 @@ navbar:
       href: teaching.html
     - text: "Blog"
       href: Blog.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+    #css: custom.css
