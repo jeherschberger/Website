@@ -29,6 +29,8 @@ knitr::include_graphics("images/Research3.jpg")
 knitr::include_graphics("images/Research1.jpg")
 ```
 
+
+
 ### Undergraduate with [Dr. Christopher Stieha](https://www.millersville.edu/biology/faculty/c-stieha.php)
 
 ```{r, echo=FALSE, out.width = "1000px", fig.align='center', dpi=100}
