@@ -5,4 +5,4 @@ output: html_document
 
 ## [July 30 2022](Blog_1.html)
 
-Building my first website with rmarkdown!!
+Building my first website with Rmarkdown!!
