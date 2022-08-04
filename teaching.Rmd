@@ -18,6 +18,6 @@ output: html_document
 
 
 
-```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100,fig.cap="Summer 2022 Ecology Lab students where I was a teaching assistant for Dr. Kaleb Heinrich"}
+```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100,fig.cap="Summer 2022 Ecology Lab students where I was a teaching assistant for [Dr. Kaleb Heinrich](https://bioed.ua.edu)"}
 knitr::include_graphics("images/BSC_teaching.jpeg")
 ```
