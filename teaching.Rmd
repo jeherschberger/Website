@@ -13,9 +13,11 @@ output: html_document
 
 #### University of Alabama (Spring 2020 - Summer 2022)
 
-```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100}
+* General Biology I & II labs
+* Ecology Lab
+
+
+
+```{r, echo=FALSE, out.width = "500px", fig.align='center', dpi=100,fig.cap="Summer 2022 Ecology Lab students where I was a teaching assistant for Dr. Kaleb Heinrich"}
 knitr::include_graphics("images/BSC_teaching.jpeg")
 ```
-
-* General Biology I & II
-* Ecology Lab

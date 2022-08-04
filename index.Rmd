@@ -13,7 +13,7 @@ library(knitr)
 knitr::include_graphics("images/profile.jpg")
 ```
 
-I am a current **Ph.D Student and research assistant** at the University of Florida with [Dr. Phil Hahn](https://plant-herbivore-interactions.net). I am investigating pollinator community changes in relation to herbivore induced plant chemistry changes and how plant chemical defense production correlates with plant tolerance in relation to insect herbivores.
+I am a current **Ph.D Student and research assistant** at the University of Florida with [Dr. Phil Hahn](https://plant-herbivore-interactions.net). I am investigating pollinator community changes in relation to herbivore induced plant chemistry changes and how plant chemical defense production correlates with plant tolerance in relation to insect herbivores. My CV can be found [here](Herschberger_CV.pdf).
 
 
 ### Education

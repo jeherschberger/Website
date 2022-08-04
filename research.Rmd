@@ -3,4 +3,37 @@ title: "Research"
 output: html_document
 ---
 
-Under construction
+### Current with [Dr. Phil Hahn](https://plant-herbivore-interactions.net)
+
+Investigating pollinator community changes in relation to herbivore induced plant chemistry changes and how plant chemical defense production correlates with plant tolerance in relation to insect herbivores. **More info and photos will be posted later**.
+
+### M.Sc. with [Dr. Monica Kersch-Becker](https://monikersch.wixsite.com/kersch-beckerlab/people)
+
+These are the multiple projects I worked on while working with Dr. Monica Kersch-Becker.
+
+1. Surveyed pollinators, plants, and floral chemistry to investigate the effects of neighboring plant diversity on pollinator diversity. I would also like to construct plant-floral chemistry-pollinator networks with this survey data.
+
+```{r, echo=FALSE, out.width = "700px", fig.align='center', dpi=100}
+knitr::include_graphics("images/Research2.jpg")
+```
+
+
+```{r, echo=FALSE, out.width = "700px", fig.align='center', dpi=100}
+knitr::include_graphics("images/Research3.jpg")
+```
+
+
+2. Investigated the combined effects of neighboring intraspecific plants and herbivory on the seed set of *Solidago altissima* via floral volatile organic compounds.
+
+```{r, echo=FALSE, out.width = "700px", fig.align='center', dpi=100}
+knitr::include_graphics("images/Research1.jpg")
+```
+
+### Undergraduate with [Dr. Christopher Stieha](https://www.millersville.edu/biology/faculty/c-stieha.php)
+
+```{r, echo=FALSE, out.width = "1000px", fig.align='center', dpi=100}
+knitr::include_graphics("images/CPUB_Poster2 - edits_2.png")
+```
+
+
+
