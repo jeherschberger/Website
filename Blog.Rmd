@@ -3,6 +3,6 @@ title: "Blog"
 output: html_document
 ---
 
-## [Website Birth](Blog_1.html)
+## **[Website Birth](Blog_1.html)**
 
 Building my first website with Rmarkdown!!
