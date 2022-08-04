@@ -17,4 +17,3 @@ output:
   html_document:
     theme: cosmo
     highlight: monochrome
-    #css: custom.css
