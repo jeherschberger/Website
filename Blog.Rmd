@@ -3,6 +3,6 @@ title: "Blog"
 output: html_document
 ---
 
-## [July 30 2022](Blog_1.html)
+## [Website Birth](Blog_1.html)
 
 Building my first website with Rmarkdown!!
