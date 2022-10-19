@@ -5,13 +5,13 @@ navbar:
   right:
     - text: "About|Herschberger"
       href: index.html
-    - text: "Research"
+    - text: "Research|Herschberger"
       href: research.html
-    - text: "Publications"
+    - text: "Publications|Herschberger"
       href: publications.html
-    - text: "Teaching"
+    - text: "Teaching|Herschberger"
       href: teaching.html
-    - text: "Blog"
+    - text: "Blog|Herschberger"
       href: Blog.html
 output:
   html_document:
