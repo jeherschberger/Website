@@ -3,15 +3,15 @@ output_dir: "."
 navbar:
   title: "Jacob Herschberger"
   right:
-    - text: "About|Herschberger"
+    - text: "About"
       href: index.html
-    - text: "Research|Herschberger"
+    - text: "Research"
       href: research.html
-    - text: "Publications|Herschberger"
+    - text: "Publications"
       href: publications.html
-    - text: "Teaching|Herschberger"
+    - text: "Teaching"
       href: teaching.html
-    - text: "Blog|Herschberger"
+    - text: "Blog"
       href: Blog.html
 output:
   html_document:
