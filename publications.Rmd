@@ -1,6 +1,12 @@
 ---
-title: "Publications"
+title: "Publications | Jacob Herschberger"
 output: html_document
 ---
+
+``` {css echo = FALSE}
+.title{
+display: none;
+}
+```
 
 In progress
